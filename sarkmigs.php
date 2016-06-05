@@ -6,6 +6,8 @@ Description: Extends WooCommerce with MasterCard Internet Gateway Service (MIGS)
 Version: 1.3
 Author: Saravana Kumar K
 Author URI: http://iamsark.com
+Tweaked by: Hicham Mallah
+Tweaked for: Audi Bank Lebanon
 Copyright: © Sarkware
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
